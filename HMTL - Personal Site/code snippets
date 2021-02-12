@@ -1,0 +1,46 @@
+<!--Nested Table Example -->
+
+
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Napping</td>
+            <td>🌟🌟🌟🌟🌟</td>
+          </tr>
+          <tr>
+            <td>Fetching</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>Snoring</td>
+            <td>🌟🌟🌟🌟🌟</td>
+          </tr>
+
+        </table>
+
+      </td>
+      <td>
+
+        <table>
+          <tr>
+            <td>Snoring</td>
+            <td>🌟🌟🌟🌟🌟</td>
+          </tr>
+          <tr>
+            <td>Yawning</td>
+            <td>🌟🌟🌟🌟</td>
+          </tr>
+          <tr>
+            <td>Side Eyeing</td>
+            <td>🌟🌟🌟🌟🌟</td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+
+
+
+  </table>
